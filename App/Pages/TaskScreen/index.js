@@ -49,7 +49,6 @@ containerTop:{
 textHeadStyle:{
   fontWeight:'500',
   fontSize:35,
- 
   alignSelf:'center'
 },
 textNameStyle:{
